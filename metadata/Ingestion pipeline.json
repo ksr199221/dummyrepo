@@ -1,0 +1,16 @@
+{
+  "pipeline_name": "Ingestion pipeline",
+  "source": "S3",
+  "target": "Postgres",
+  "schedule": "weekly",
+  "owner": "Siva",
+  "columns": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f"
+  ],
+  "created_at": "2025-10-18T07:14:04.831760"
+}
