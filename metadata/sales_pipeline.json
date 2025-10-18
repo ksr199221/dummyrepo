@@ -1,0 +1,9 @@
+{
+  "pipeline_name": "sales_pipeline",
+  "source": "MySQL",
+  "target": "Snowflake",
+  "schedule": "daily",
+  "owner": "Siva",
+  "columns": [],
+  "created_at": "2025-10-18T06:23:13.337523"
+}
