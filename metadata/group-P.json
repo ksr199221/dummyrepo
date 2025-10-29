@@ -1,0 +1,13 @@
+{
+  "fvalue1": "X",
+  "fvalue2": "Y",
+  "group": "group-P",
+  "category": "categoryB",
+  "API": "dummyapi",
+  "token": "dummytoken",
+  "suburl": "dummysuburl",
+  "database": "dummydatabase",
+  "tablename": "dummytable",
+  "s3bucket": "dummys3bucket",
+  "s3folderpath": "dummys3folderpath"
+}
