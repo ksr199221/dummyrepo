@@ -1,0 +1,15 @@
+{
+  "fixedvalue1": "70",
+  "fixedvalue2": "80",
+  "fixedvalue3": "90",
+  "group": "group-C",
+  "category": "categoryA",
+  "secretname": "dummysecret",
+  "s3bucket": "dummybucket",
+  "s3folderpath": "dummypath/folder1",
+  "database": "dummydatabase",
+  "tablelist": [
+    "dummytable1",
+    "dummytable2"
+  ]
+}
